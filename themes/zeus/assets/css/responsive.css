@@ -44,8 +44,8 @@
   }
   .main-banner .banner-image img:last-child {
     display: block;
-    left: 0;
     right: 0;
+    left: 0;
     margin: 0 auto;
   }
   .main-banner .banner-form {
@@ -106,11 +106,11 @@
     padding-bottom: 20px;
   }
   .single-features {
-    padding-left: 20px;
+    padding-right: 20px;
   }
   .single-features .icon {
     position: relative;
-    left: 0;
+    right: 0;
     top: 0;
     margin-bottom: 25px;
   }
@@ -125,16 +125,16 @@
     padding-bottom: 30px;
   }
   .single-team .team-image {
-    padding-left: 20px;
     padding-right: 20px;
+    padding-left: 20px;
   }
   .single-team .team-content {
-    padding-left: 20px;
     padding-right: 20px;
+    padding-left: 20px;
   }
   .single-team .team-content .team-info {
-    margin-right: 10px;
     margin-left: 10px;
+    margin-right: 10px;
   }
   .single-team .team-content .team-info h3 {
     font-size: 17px;
@@ -155,7 +155,7 @@
   }
   .contact-cta-box .btn {
     position: relative;
-    right: 0;
+    left: 0;
     top: 0;
     margin-top: 15px;
   }
@@ -163,7 +163,7 @@
     padding-bottom: 20px;
   }
   .single-works .icon {
-    right: 5px;
+    left: 5px;
     width: 38px;
     height: 38px;
     line-height: 36px;
@@ -197,15 +197,15 @@
     font-size: 27px;
   }
   .feedback-slides .client-feedback .single-feedback {
-    padding-left: 20px;
     padding-right: 20px;
+    padding-left: 20px;
     padding-top: 30px;
     padding-bottom: 30px;
     margin-bottom: 30px;
   }
   .feedback-slides .client-feedback .single-feedback .client-img {
     position: relative;
-    left: 0;
+    right: 0;
     top: 0;
     margin-bottom: 20px;
   }
@@ -222,10 +222,10 @@
     margin: 0;
   }
   .feedback-slides .client-thumbnails .next-arrow {
-    right: 0;
+    left: 0;
   }
   .feedback-slides .client-thumbnails .prev-arrow {
-    left: 0;
+    right: 0;
   }
   .feedback-slides .client-thumbnails .next-arrow, .feedback-slides .client-thumbnails .prev-arrow {
     background: rgba(0, 0, 0, 0.55);
@@ -248,8 +248,8 @@
     line-height: 23px;
   }
   .partner-section .partner-inner {
-    padding-left: 20px;
     padding-right: 20px;
+    padding-left: 20px;
   }
   .blog-area {
     padding-bottom: 20px;
@@ -263,12 +263,12 @@
   }
   .page-title-area .shape8 {
     top: auto;
-    right: auto;
-    left: 15px;
+    left: auto;
+    right: 15px;
     bottom: 20px;
   }
   .page-title-area .shape7 {
-    left: 15%;
+    right: 15%;
     top: 29%;
   }
   .about-image {
@@ -288,7 +288,7 @@
     margin-top: 0;
   }
   .project-details-desc .project-details-information .single-info-box {
-    float: left;
+    float: right;
     width: 50%;
     margin-top: 20px;
   }
@@ -353,14 +353,14 @@
     font-size: 17px;
   }
   .blog-details-area .post-comments .single-comment {
-    padding-left: 0;
+    padding-right: 0;
   }
   .blog-details-area .post-comments .single-comment .comment-img {
     position: relative;
     margin-bottom: 25px;
   }
   .blog-details-area .post-comments .single-comment.left-m {
-    margin-left: 20px;
+    margin-right: 20px;
   }
   .blog-details-area .leave-a-reply {
     padding: 30px 20px;
@@ -397,7 +397,7 @@
   }
   .coming-soon-content form .submit-btn {
     position: relative;
-    right: 0;
+    left: 0;
     top: 0;
     height: 45px;
     border-radius: 40px;
@@ -501,8 +501,8 @@
   }
   .services-right-image img:last-child {
     display: block;
-    left: 0;
     right: 0;
+    left: 0;
     margin: 0 auto;
   }
   .services-right-image.single-right-image img.bg-image {
@@ -518,19 +518,19 @@
   }
   .services-left-image img:last-child {
     display: block;
-    left: 0;
     right: 0;
+    left: 0;
     margin: 0 auto;
   }
   .services-left-image.single-left-image img.bg-image {
     display: none;
   }
   .single-features {
-    padding-left: 20px;
+    padding-right: 20px;
   }
   .single-features .icon {
     position: relative;
-    left: 0;
+    right: 0;
     top: 0;
     margin-bottom: 25px;
   }
@@ -555,8 +555,8 @@
   }
   .page-title-area .shape8 {
     top: auto;
-    right: auto;
-    left: 20px;
+    left: auto;
+    right: 20px;
     bottom: 20px;
   }
   .project-details-desc .project-details-information .single-info-box {
@@ -604,66 +604,66 @@
   }
   .main-banner .banner-image img:nth-child(1) {
     top: -140px;
-    left: -120px;
+    right: -120px;
   }
   .main-banner .banner-image img:nth-child(2) {
-    right: 160px;
+    left: 160px;
     top: -286px;
   }
   .main-banner .banner-image img:nth-child(3) {
-    left: -30px;
+    right: -30px;
     top: -15px;
   }
   .main-banner .banner-image img:nth-child(4) {
-    right: 15%;
+    left: 15%;
     top: 105px;
   }
   .main-banner .banner-image img:nth-child(5) {
-    left: 15%;
+    right: 15%;
     top: -120px;
   }
   .main-banner .banner-image img:nth-child(6) {
-    right: 37%;
+    left: 37%;
     top: -160px;
   }
   .main-banner .banner-image img:nth-child(7) {
-    right: 20px;
+    left: 20px;
     top: -110px;
   }
   .main-banner .banner-image img:nth-child(8) {
-    right: 25px;
+    left: 25px;
     top: -140px;
   }
   .main-banner .banner-image img:nth-child(9) {
-    right: 28%;
+    left: 28%;
     top: -25px;
   }
   .main-banner .banner-image img:nth-child(10) {
-    left: 29%;
+    right: 29%;
     top: -35px;
   }
   .main-banner .banner-image img:nth-child(11) {
-    left: 26%;
+    right: 26%;
     top: -160px;
   }
   .main-banner .banner-image img:nth-child(12) {
-    left: 15px;
+    right: 15px;
     top: -110px;
   }
   .main-banner .banner-image img:nth-child(13) {
-    left: 50%;
+    right: 50%;
     top: -18px;
   }
   .main-banner .banner-image img:nth-child(14) {
-    right: 98px;
+    left: 98px;
     top: -20px;
   }
   .shape1 {
     display: none;
   }
   .startp-nav nav .navbar-nav .nav-item a {
-    margin-left: 10px;
     margin-right: 10px;
+    margin-left: 10px;
   }
   .services-left-image.single-left-image img:first-child {
     top: -30px;
@@ -682,9 +682,10 @@
     position: absolute;
     top: 11px;
     z-index: 999;
-    left: 15px;
+    right: 15px;
   }
   .startp-mobile-nav .logo img {
+  float: left;
   padding: 4px 5px;
   }
   .startp-mobile-nav nav .navbar-nav .nav-item a svg {
@@ -695,13 +696,12 @@
   }
 }
 
-.zeus-logo {
+.home-logo {
     max-height: 70px;
     margin: -10px;
 }
 
 
 @media only screen and (min-width: 1200px){
-
+  
 }
-/*# sourceMappingURL=responsive.css.map */
